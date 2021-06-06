@@ -3,6 +3,11 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un array
   // Tu código:
+
+  array = [ true, "Numen"]
+  
+  return (array.push());
+  
 }
 
 
